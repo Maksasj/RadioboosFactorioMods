@@ -1,5 +1,5 @@
 # Solar Synthesis
-![This is an image](https://github.com/Maksasj/Solar_Synthesis-REPO/blob/main/graphics/prev.png)<br/>
+![This is an image](graphics/prev.png)<br/>
 Simple mod for factorio, what adds Solar Synthesis.
 Simple storage for your solar panels , which accumulates their overall performance in 1 machine.
 Replace thousands of solar panels with 1 mechanism !
