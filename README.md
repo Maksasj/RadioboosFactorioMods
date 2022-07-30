@@ -13,6 +13,9 @@ Main repository for all radioboos factorio mods family
 - **Exa Inserters**
   - Simple mod for Factorio , adding new OP inserters and infinity stack size for stack inserters research.
 
+- **Aquatic Industries**
+  - Under development
+
 - **Solar Synthesis**
   - Simple mod for factorio, what adds Solar Synthesis. Simple storage for your solar panels , which accumulates their overall performance in 1 machine. Replace thousands of solar panels with 1 mechanism !
   - Tier 1 , 32 slots (or 1600 solar panels)
