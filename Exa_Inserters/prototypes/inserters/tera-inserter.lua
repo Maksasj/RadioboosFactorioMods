@@ -71,8 +71,8 @@ data:extend({
           filename = "__exa_inserters__/graphics/entity/inserter/inserter-hand-base.png",
           --tint = {r = 69/255, g = 1, b = 249/255},
           priority = "extra-high",
-          width = 32,
-          height = 136,
+          width = 8,
+          height = 33,
           scale = 0.25
         }
       },
@@ -88,8 +88,8 @@ data:extend({
           filename = "__exa_inserters__/graphics/entity/inserter/inserter-hand-closed.png",
           --tint = {r = 69/255, g = 1, b = 249/255},
           priority = "extra-high",
-          width = 72,
-          height = 164,
+          width = 18,
+          height = 41,
           scale = 0.25
         }
       },
@@ -105,8 +105,8 @@ data:extend({
           filename = "__exa_inserters__/graphics/entity/inserter/inserter-hand-open.png",
           --tint = {r = 69/255, g = 1, b = 249/255},
           priority = "extra-high",
-          width = 72,
-          height = 164,
+          width = 18,
+          height = 41,
           scale = 0.25
         }
       },
@@ -120,8 +120,8 @@ data:extend({
         {
           filename = "__base__/graphics/entity/burner-inserter/hr-burner-inserter-hand-closed-shadow.png",
           priority = "extra-high",
-          width = 72,
-          height = 164,
+          width = 18,
+          height = 41,
           scale = 0.25
         }
       },
@@ -135,8 +135,8 @@ data:extend({
         {
           filename = "__base__/graphics/entity/burner-inserter/hr-burner-inserter-hand-base-shadow.png",
           priority = "extra-high",
-          width = 32,
-          height = 132,
+          width = 8,
+          height = 33,
           scale = 0.25
         }
       },
@@ -150,8 +150,8 @@ data:extend({
         {
           filename = "__base__/graphics/entity/burner-inserter/hr-burner-inserter-hand-closed-shadow.png",
           priority = "extra-high",
-          width = 72,
-          height = 164,
+          width = 18,
+          height = 41,
           scale = 0.25
         }
       },
@@ -165,8 +165,8 @@ data:extend({
         {
           filename = "__base__/graphics/entity/burner-inserter/hr-burner-inserter-hand-open-shadow.png",
           priority = "extra-high",
-          width = 72,
-          height = 164,
+          width = 18,
+          height = 41,
           scale = 0.25
         }
       },
@@ -187,8 +187,8 @@ data:extend({
             filename = "__exa_inserters__/graphics/entity/inserter/tera-inserter-platform.png",
             --tint = {r = 69/255, g = 1, b = 249/255},
             priority = "extra-high",
-            width = 105,
-            height = 79,
+            width = 46,
+            height = 46,
             shift = util.by_pixel(1.5, 7.5-1),
             scale = 0.5
           }
