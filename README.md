@@ -33,3 +33,4 @@ Main repository for all radioboos factorio mods family
 - Exa inserters: https://mods.factorio.com/mod/exa_inserters
 - Solar synthesis: https://mods.factorio.com/mod/Solar_Synthesis
 - Exponential: **Currently under development**
+- Aquatic Industries: **Currently under development**
