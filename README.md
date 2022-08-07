@@ -24,6 +24,9 @@ Main repository for all radioboos factorio mods family
   - Tier 4 , 256 slots (or 12800 solar panels)
   - Tier 5 , 512 slots (or 25600 solar panels!)
 
+- **Water Sink**
+  - Adds simple construction, what allows to get infinity water at any time
+
 - **Exponential**
   - Currently under development, but the main idea is to just add a ton of new tiers for regular items, furnaces, solar panels exedra.
   - Already have **Assebling Machines**, **Furnaces**, **Mining Drills** and **Solar Panels**.
@@ -32,5 +35,6 @@ Main repository for all radioboos factorio mods family
 - Advanced fishing: https://mods.factorio.com/mod/Advanced_Fishing
 - Exa inserters: https://mods.factorio.com/mod/exa_inserters
 - Solar synthesis: https://mods.factorio.com/mod/Solar_Synthesis
+- Water Sink: **Not published yet**
 - Exponential: **Currently under development**
 - Aquatic Industries: **Currently under development**
