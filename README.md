@@ -7,7 +7,9 @@ Cool looking widgets
 ## Mod List:
 ### Advanced Fishing 
 Mod which adds an industrial way to get seafood in the game!
-  
+
+
+#### Features:
 - Fish farm (main mechanism)
 - Raw Salmon (new fish type)
 - Raw Tropical Fish (new fish type)
@@ -17,7 +19,7 @@ Mod which adds an industrial way to get seafood in the game!
 #### Links:
   - Cource code avaiable at [github.com/Maksasj/RadioboosFactorioMods](https://github.com/Maksasj/RadioboosFactorioMods/tree/master/Advanced_Fishing)
   - Mod page on Mod Portal [mods.factorio.com/mod/Advanced_Fishing](https://mods.factorio.com/mod/Advanced_Fishing)
-  
+
 Cool looking widgets 
 <img src="https://img.shields.io/badge/dynamic/json.svg?label=downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2FAdvanced_Fishing&query=%24.downloads_count&colorB=%23a87723" alt="badge">
 <img src="https://img.shields.io/badge/dynamic/json.svg?label=factorio%20version&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Fliquid-science&query=%24.releases%5B-1%3A%5D.info_json.factorio_version&colorB=%23a87723" alt="badge">
